@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/cargo/contracts/escrow/soroban-sdk-27.0.2",
+    "dependabot/npm_and_yarn/frontend/eslint-config-next-16.2.10",
+    "dependabot/npm_and_yarn/frontend/ledgerhq/hw-transport-webhid-6.36.0",
+    "dependabot/npm_and_yarn/frontend/react-19.2.7",
+    "dependabot/npm_and_yarn/frontend/react-dom-19.2.7",
+    "fix/issues-608-621-625",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/cargo/contracts/escrow/soroban-sdk-27.0.2": "main",
+    "dependabot/npm_and_yarn/frontend/eslint-config-next-16.2.10": "main",
+    "dependabot/npm_and_yarn/frontend/ledgerhq/hw-transport-webhid-6.36.0": "main",
+    "dependabot/npm_and_yarn/frontend/react-19.2.7": "main",
+    "dependabot/npm_and_yarn/frontend/react-dom-19.2.7": "main",
+    "fix/issues-608-621-625": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/cargo/contracts/escrow/soroban-sdk-27.0.2",
+    "dependabot/npm_and_yarn/frontend/eslint-config-next-16.2.10",
+    "dependabot/npm_and_yarn/frontend/ledgerhq/hw-transport-webhid-6.36.0",
+    "dependabot/npm_and_yarn/frontend/react-19.2.7",
+    "dependabot/npm_and_yarn/frontend/react-dom-19.2.7",
+    "fix/issues-608-621-625",
+    "origin"
+  ]
+}
